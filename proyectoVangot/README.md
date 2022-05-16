@@ -1,10 +1,7 @@
-# Tech News HTML
-![](./screenshot.png)
+# Proyecto
 
-# Recomendations
-* Minimize the size of Images
-* put a favicon
 
-# Resources
+
+# Recursos
 * [Pexels.com](https://www.pexels.com/)
 * [HeroPatterns.com](https://www.heropatterns.com/). Death Start is choosen in this project
